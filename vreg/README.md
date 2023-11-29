@@ -5,7 +5,9 @@ This repository contains code and examples to illustrate various aspects of the 
 ## Directory of Python Scripts and Notebooks
 
 - **vreg.ipynb**; Jupyter Notebook that illustrates volt-var characteristics and performance
-- invoke with **jupyter notebook vreg.ipynb**
+- invoke with **jupyter notebook vreg.ipynb** from a command prompt
+    - **notebook.bat** helper script for Windows
+    - **notebook.sh** helper script for Mac OS/Linux
 
 ## Python and Jupyter Notebook Support
 

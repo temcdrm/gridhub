@@ -4,10 +4,15 @@ This repository contains code and examples to illustrate various aspects of the 
 
 ## Directory of Python Scripts and Notebooks
 
-- **vreg.ipynb**; Jupyter Notebook that illustrates volt-var characteristics and performance
-- invoke with **jupyter notebook vreg.ipynb** from a command prompt
-    - **notebook.bat** helper script for Windows
-    - **notebook.sh** helper script for Mac OS/Linux
+- **vqpoints.ipynb**; Jupyter Notebook that illustrates volt-var characteristics
+    - invoke with **jupyter notebook vreg.ipynb** from a command prompt
+    - or use **vqpoints.bat** launcher script for Windows
+    - or use **vqpoints.sh** launcher script for Mac OS/Linux
+    - **vqpoints.pdf** contains the default output tables and plots
+- **vreg.ipynb**; Jupyter Notebook that illustrates volt-var performance
+    - invoke with **jupyter notebook vreg.ipynb** from a command prompt
+    - or use **vreg.bat** launcher script for Windows
+    - or use **vreg.sh** launcher script for Mac OS/Linux
 
 ## Python and Jupyter Notebook Support
 

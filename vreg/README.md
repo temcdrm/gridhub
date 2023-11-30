@@ -13,6 +13,7 @@ This repository contains code and examples to illustrate various aspects of the 
     - invoke with **jupyter notebook vreg.ipynb** from a command prompt
     - or use **vreg.bat** launcher script for Windows
     - or use **vreg.sh** launcher script for Mac OS/Linux
+    - **vreg.pdf** contains the default outputs
 
 ## Python and Jupyter Notebook Support
 

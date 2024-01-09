@@ -1,5 +1,5 @@
 # gridhub
-Model-building, model conversion, and simulation tools for electric power systems.
+Analytical tools for understanding the electric grid integration of inverter-based resources.
 
-Copyright 2023, Meltran, Inc
+Copyright 2023-24, Meltran, Inc
 
